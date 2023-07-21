@@ -18,9 +18,6 @@
 
 - ⚡ Fun fact **I once designed and coded a mini-game using HTML, CSS, and JavaScript that my friends and I play during our study breaks. It's a great way to relax and have some fun while honing our coding skills! 🎮😄**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -43,5 +40,5 @@
 
 
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@anubhxv/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@anubhxv/0" alt="Recent Article 4">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@anubhxv/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@anubhxv/0" alt="Recent Article 0">
 
