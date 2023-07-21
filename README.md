@@ -2,8 +2,8 @@
 )](https://xcriminal.io)
 
 
-<h1 align="center">Hi 👋, I'm Aman Singh</h1>
-<h3 align="center">A CSE(IOT & CS & BCT) student from Kolkata ,India 😎</h3>
+<h1 align="center">Hi 👋, I'm Anubhav Raj</h1>
+<h3 align="center">A CSE Core student from Kolkata ,India 😎</h3>
 
 <h3 align="center">A passionate Backend developer and a Cyber Security enthusiast... always learning while coding... #php #js #nodejs.</h3>
 <h3 align="centre">  Certified Cisco Network Associate --- Certified Ethical Hacker (Professional).</h3>
