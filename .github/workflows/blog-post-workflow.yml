@@ -12,4 +12,4 @@ jobs:
               with: 
                 comment_tag_name : "Blogs"
                 max_post_count: "4"
-                feed_list: "https://medium.com/feed/@anubhxv"
+                feed_list: "https://anubhxv.medium.com/"
