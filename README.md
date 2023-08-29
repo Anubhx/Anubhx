@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React , Data science**
 
-- 👨‍💻 All of my design projects are available at [https://www.behance.net/anubhavraj1](https://www.behance.net/anubhavraj1)
+- 👨‍💻 All of my design projects are available at [Portfolio](/anubhx.github.io)
 
 - 📝 I regularly write articles on improving UX designs [https://medium.com/@anubhxv](https://medium.com/@anubhxv)
 
